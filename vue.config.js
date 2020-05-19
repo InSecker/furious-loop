@@ -1,8 +1,8 @@
 module.exports = {
   pwa: {
-    name: "Oh My Food",
-    short_name: "OMF",
-    themeColor: "#F8FC3B",
+    name: "Furious Track",
+    short_name: "FT",
+    themeColor: "#2C3950",
     msTileColor: "#000000",
     appleMobileWebAppCapable: "yes",
     appleMobileWebAppStatusBarStyle: "black",
