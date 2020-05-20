@@ -1,4 +1,4 @@
-# furious-track
+# furious-tracks
 
 ## Project setup
 ```
